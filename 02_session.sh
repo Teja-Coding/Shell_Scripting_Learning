@@ -1,5 +1,6 @@
 #!/bin/bash
 # This script demonstrates how to manage a terminal session using tmux.
+
 #learning the variables in shell scripting...
 FIRST_Name="manikanta"
 LAST_Name="kumar"
