@@ -1,12 +1,8 @@
 #!/bin/bash 
 #Some built-in variables are always available:
 
-# Learning more about the varibales in bash
-echo "enter you name : "
-read name
-echo "enter your age : "
-read age
-echo "your name is $name and your age is $age"
+
+
 
 echo "Script Name : $0"  # The name of the script
 echo "First Argument : $1" # The first argument to the script
