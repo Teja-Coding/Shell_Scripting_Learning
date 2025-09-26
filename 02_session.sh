@@ -8,6 +8,7 @@ ADDRESS="Hyderabad"
 PHONE="1234567890"
 AREA="India"
 
+
 echo "First Name: $FIRST_Name"
 echo "Last Name: $LAST_Name"
 echo "Address: $ADDRESS"
