@@ -12,4 +12,5 @@ echo "The process ID of this script is $$"
 echo "The last command's exit status was $?"
 echo "The second argument is ${2}"
 echo "The third argument is ${3}"
+echo "All arguments as an array: ${@}"
 # This script demonstrates special variables in bash
