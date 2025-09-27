@@ -1,6 +1,6 @@
 #!/bin/bash
 
-day = 2
+day=2
 case $day in
     1) echo "Monday";;
     2) echo "Tuesday";;
